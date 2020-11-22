@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0154298f-d347-44be-b31b-4c8cb3e86a82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/message.rb" beforeDir="false" afterPath="$PROJECT_DIR$/message.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.erb" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.erb" afterDir="false" />
     </list>
@@ -36,7 +37,7 @@
       <updated>1606058689619</updated>
       <workItem from="1606058690770" duration="103000" />
       <workItem from="1606058804733" duration="14000" />
-      <workItem from="1606058834666" duration="1090000" />
+      <workItem from="1606058834666" duration="2278000" />
     </task>
     <servers />
   </component>
