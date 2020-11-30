@@ -1,11 +1,12 @@
 require 'sinatra'
+require 'sinatra/reloader'
 
 
-get  '/' do
+get '/' do
   erb :index
 end
 
-post  '/' do
+post '/' do
   @name = params[:name]
   @phone = params[:phone]
   @vtime = params[:vdate]
