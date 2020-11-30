@@ -1,0 +1,60 @@
+body {
+    font-size: 14px;
+    font-family: Cambria
+}
+
+table {
+    background-color: lavender;
+    border-spacing: 1px;
+    border-collapse: separate;
+    padding: 2px;
+    font-size: 12px;
+    font-family: Microsoft Sans Serif;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid silver;
+    border-left: 1px solid silver;
+
+}
+
+thead    {
+    padding: 1px;
+    color: coral;
+    font-size: 16px;
+    font-family: Calibri;
+}
+tr    {
+    background-color: lightgray;
+    padding: 1px;
+}
+
+
+th    {
+    background-color: cadetblue;
+}
+
+
+
+.mytable {
+    background-color: lavender;
+    border-spacing: 1px;
+    border-collapse: separate;
+    padding: 2px;
+    font-size: 10px;
+    font-family: Calibri;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid silver;
+    border-left: 1px solid silver;
+
+}
+
+.thead1    {
+    padding: 1px;
+    color: midnightblue;
+    font-size: 11px;
+    font-family: Calibri;
+}
+.th1    {
+    background-color: burlywood;
+}
